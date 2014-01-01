@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WebApplication3.About" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>About.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApplication3._Default" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Default.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApplication3.Global" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAAAAAAAAAAAECIBAAAAAAAAAA=</HashCode>
+      <FileName>Global.asax.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApplication3.Login1" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAECAAAAAAAQAAAAAAAAQAIIAAIAAAAhBQACJAAAA=</HashCode>
+      <FileName>Login1.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApplication3.Projeler" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAIWCAAEAAAAAAEUQAAAAAAoAAQQAAAAAAKAAaAAAA=</HashCode>
+      <FileName>Projeler.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApplication3.SiteMaster" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEABAAAAAACABAACAAQAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Site.Master.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApplication3.SqlOps" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAEAEABAQIAAQAAAAAIBoAAAAEAAAAAAAABDgAAA=</HashCode>
+      <FileName>SqlOps.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApplication3.WebForm1" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QABI2CAAEAAAAAAEUQAAABgAoAIQYAAEAAAKAAKAIAA=</HashCode>
+      <FileName>Surecler.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApplication3.WebForm2" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAEJiEAgEIAAACAEUEAgAAACIATxCEQAAIAAAAYAAAM=</HashCode>
+      <FileName>WebForm2.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApplication3.Yonlendir" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Yonlendir.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApplication3.Yonlendir2" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Yonlendir2.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApplication3.Account.ChangePassword" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAIAAAA=</HashCode>
+      <FileName>Account\ChangePassword.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApplication3.Account.ChangePasswordSuccess" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Account\ChangePasswordSuccess.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApplication3.Account.Login" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAIAAAE=</HashCode>
+      <FileName>Account\Login.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebApplication3.Account.Register" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAIAAAAAAAAAAAAAAAAAABAAAAAAAAIAAAA=</HashCode>
+      <FileName>Account\Register.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
